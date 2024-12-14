@@ -1,0 +1,125 @@
+
+body {
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    }
+
+
+   header p{
+   font-size: 1.2rem;
+   margin-bottom: 30px;
+   background-color: black;
+   text-align: center;
+   color: bisque;
+      }
+
+
+
+
+    header {
+    text-align:center;
+    padding: 10px;
+    background-color:rgb(255, 255, 255);
+    }
+
+   
+   header img {
+    width:200px;
+    height:200px;
+    border-radius :100%;
+    margin-bottom: 10px;
+   
+
+   }
+   .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #dfd68b;
+  }
+  
+  .navbar .Nailest a {
+    font-size: 1.8rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+   gap: 2rem;
+   margin-left: auto;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.1rem;
+  }
+  
+  .nav-links li a:hover {
+    color: #79eb44;
+  }
+  
+
+   
+
+
+  h2{
+       
+    color:rgb(0, 0, 0);
+    text-align :center;
+    background-color:beige;
+    padding:20px 0px;
+  
+
+   }
+
+
+
+     section{
+     margin:20px ;
+     background-color:beige;
+     
+     }
+
+
+    section.img {
+      display: flex;
+    
+    
+      }
+
+
+
+
+   .action-button{
+   align-content:center;
+   padding:10px 20px;
+    background-color: #dfd68b;
+    color:rgb(0, 0, 0);
+    border:none;
+    border-radius:10px;
+    cursor: pointer;
+    transition:background-color 0.3s;
+
+
+
+
+    }
+    
+  
+
+ footer{
+background-color:#dfd68b;
+padding:20px;
+text-align: center;
+color: rgb(0, 0, 0);
+  }
+  
+
+  
+  
+  
